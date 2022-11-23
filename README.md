@@ -1,7 +1,7 @@
 # Twinkles Shopping Zone Full Project
  
  ### Assalamu'ala manit taba'al huda 👋
- # 💬Before Download, Read The folloowing lies:<br>
+ # 💬Before Download, Read The folloowing lines:<br>
 :white_check_mark: Install XAMPP or, [Click here to Download](https://xampp-windows.en.softonic.com/download)<br>
 :white_check_mark: Download this repository as Zip File on Your machine<br>
 :white_check_mark: Unzip the Folder<br>

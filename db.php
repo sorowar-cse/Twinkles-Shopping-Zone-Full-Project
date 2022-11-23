@@ -1,9 +1,9 @@
 <?php
 class database{
-	private $servername="localhost";
-	private $username="root";
-	private $pass="";
-	private $dbname="shopping";
+	private $servername="sql203.epizy.com";
+	private $username="epiz_33062307";
+	private $pass="RiNc8E5YY9kC";
+	private $dbname="epiz_33062307_shopping";
 	private $mysqli = "";
 
 	public function __construct()

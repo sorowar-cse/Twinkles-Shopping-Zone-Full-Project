@@ -6,6 +6,10 @@
 :white_check_mark: Download this repository as Zip File on Your machine<br>
 :white_check_mark: Unzip the Folder<br>
 :white_check_mark: Cut this folder and paste in htdocs folder (C:\xampp\htdocs)<br>
+:white_check_mark: Must on XAMPP like the following SS:<br><br>
+![Screenshot (401)](https://user-images.githubusercontent.com/76944781/203604603-3aeab1cb-3d81-4dbf-8183-5b56a712a9e0.png)<br><br><br>
+:white_check_mark: [Go Here](http://localhost/phpmyadmin/index.php?route=/table/structure&db=shopping&table=user) and Create A Database with a Table like the following ss:<br><br>
+![Screenshot (402)](https://user-images.githubusercontent.com/76944781/203606485-b10daa44-1c64-4a54-8a07-b31676cfdb64.png)<br><br><br>
 :white_check_mark: [Click here to Run](http://localhost/Twinkles-Shopping-Zone%20-%20Backup/)<br>
 
 
